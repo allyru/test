@@ -20,3 +20,6 @@ jobs:
     steps:
       - name: test
         run: echo "Hello world"
+      - name: test2
+        run: echo "Hello world"
+
